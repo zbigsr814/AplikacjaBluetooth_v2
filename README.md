@@ -1,4 +1,5 @@
 # AplikacjaBluetooth_v2
+Program wykonano w Window Forms.
 Aplikacja bluetooth do sterowania zdalnym pojazdem.
 Komputer musi być wyposażony w przejściówkę USB-BT.
 Należy w systemie połączyć się z urządzeniem BLuetooth, w naszym przypadku jest to urządzenie bt123, hasło 1234.
